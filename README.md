@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sandeep Kumar. I mainly work on java and spring.
-- 🌱 I’m currently learning MERN.
 - 📫 You can reach on ssandeepk.jai431@gmail.com
 - 🤝 I’m looking to collaborate on Java,Spring projects.
 
